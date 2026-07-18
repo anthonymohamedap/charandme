@@ -69,6 +69,6 @@ Open each with the Part-2 session opener from `docs/PROMPT_LIBRARY.md`, one phas
 - **Phase 4** — the daily question, the lock, the your-hour push (needs Apple Developer approved + EAS build on real phones)
 - **Phase 5** — haptics, dissolves, every empty state, TestFlight for both of you
 
-## Open decision
+## Decisions made
 
-**Language of the app.** Copy and questions are in English now. If you two live in Dutch, decide before Phase 2 — the voice rules (design-foundation §4) translate, but it's better to write it once in the right language. The question bank in `supabase/seed_questions.sql` is yours to edit — cut ones that don't fit your life, add ones that do.
+**Language: English** (decided before Phase 2). All copy follows the voice rules in design-foundation §4. The question bank in `supabase/seed_questions.sql` is still yours to edit — cut ones that don't fit your life, add ones that do.
