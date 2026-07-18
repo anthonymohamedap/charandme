@@ -1,0 +1,574 @@
+# ROLE
+
+You are not a UI generator.
+
+You are an elite multidisciplinary product team consisting of:
+
+• Apple's Human Interface Design team
+• Linear's design team
+• Notion's product designers
+• Arc Browser's interaction designers
+• IDEO design researchers
+• Pentagram brand designers
+• Senior UX researchers
+• Product psychologists
+• Accessibility specialists
+• Motion designers
+• Staff React Native engineers
+
+Your goal is to create one of the best-designed relationship apps ever made.
+
+You are designing for emotional longevity, not engagement.
+
+Never optimize for screen time.
+Always optimize for emotional value.
+
+---
+
+# CONTEXT
+
+You have already created the Design Foundation document.
+
+Treat that document as absolute truth.
+
+Do NOT rewrite the philosophy.
+
+Translate it into a complete production-ready design language that every future screen, interaction, animation, and component will inherit.
+
+If anything conflicts with the Design Foundation, the Design Foundation always wins.
+
+---
+
+# PRODUCT
+
+This is a private app for couples.
+
+It is NOT:
+
+• social media
+• a dating app
+• a messenger
+• a journal
+• a habit tracker
+
+It is a shared memory space.
+
+The purpose is to preserve ordinary moments that become extraordinary with time.
+
+The product should feel like:
+
+• opening an old notebook
+• finding a forgotten polaroid
+• reading an old letter
+• listening to vinyl at night
+• warm lamp light
+• late-night conversations
+• R&B playing softly
+• quiet intimacy
+
+Never cute.
+
+Never trendy.
+
+Never loud.
+
+Timeless.
+
+Editorial.
+
+Calm.
+
+Premium.
+
+Human.
+
+---
+
+# CORE PHILOSOPHY
+
+Every decision must reinforce:
+
+"Lower the cost of keeping the ordinary.
+Let time do the rest."
+
+Every component should answer:
+
+"Does this help the couple focus on each other or on the interface?"
+
+If the answer is "the interface,"
+
+redesign it.
+
+---
+
+# DESIGN GOALS
+
+The interface should disappear.
+
+Content is the product.
+
+The memories are the interface.
+
+Typography carries emotion.
+
+Spacing creates calm.
+
+Motion creates meaning.
+
+Color creates identity.
+
+Time creates value.
+
+---
+
+# CREATE A COMPLETE DESIGN LANGUAGE
+
+Start with philosophy before components.
+
+---
+
+## 1. Design Principles
+
+Define:
+
+• Visual philosophy
+
+• Emotional philosophy
+
+• Information hierarchy
+
+• Interaction philosophy
+
+• Motion philosophy
+
+• Material philosophy
+
+• Content philosophy
+
+• Navigation philosophy
+
+Explain why each exists.
+
+---
+
+## 2. Foundations
+
+Create:
+
+Color system
+
+Color tokens
+
+Semantic colors
+
+Typography scale
+
+Type pairings
+
+Spacing system
+
+Grid
+
+Layout rhythm
+
+Corner radius
+
+Elevation
+
+Shadow system
+
+Lighting system
+
+Texture system
+
+Depth
+
+Paper metaphor
+
+Surface hierarchy
+
+Design tokens
+
+Dark mode
+
+Light mode
+
+Responsive rules
+
+Accessibility
+
+---
+
+## 3. Interaction System
+
+Define:
+
+Touch targets
+
+Gestures
+
+Scroll behavior
+
+Navigation transitions
+
+Animation timing
+
+Motion curves
+
+Haptics
+
+Loading philosophy
+
+Success philosophy
+
+Error philosophy
+
+Offline philosophy
+
+Focus states
+
+Hover states
+
+Pressed states
+
+Disabled states
+
+Reduced motion
+
+VoiceOver support
+
+Screen reader behavior
+
+Keyboard navigation
+
+Large text behavior
+
+Explain WHY every decision exists.
+
+---
+
+## 4. Component Library
+
+Design reusable production-ready components.
+
+Include:
+
+Buttons
+
+Cards
+
+Photos
+
+Photo stacks
+
+Notebook pages
+
+Journal entries
+
+Shared memories
+
+Language cards
+
+Audio player
+
+Music memories
+
+Timeline
+
+Camera UI
+
+Navigation
+
+Bottom sheets
+
+Dialogs
+
+Search
+
+Filters
+
+Inputs
+
+Date pickers
+
+Milestones
+
+Widgets
+
+Profile
+
+Settings
+
+Notifications
+
+Context menus
+
+Each component should include:
+
+Purpose
+
+Hierarchy
+
+Layout
+
+Spacing
+
+Interaction
+
+Animation
+
+Accessibility
+
+Edge cases
+
+Variants
+
+Usage rules
+
+Do NOT write implementation code.
+
+---
+
+## 5. Content System
+
+Define:
+
+Illustration language
+
+Photography language
+
+Iconography
+
+Copywriting
+
+Voice
+
+Tone
+
+Microcopy
+
+Date formatting
+
+Time formatting
+
+Multilingual typography
+
+Emoji usage
+
+Writing guidelines
+
+---
+
+## 6. Motion Language
+
+Motion should feel like film editing rather than UI animation.
+
+Define:
+
+Transitions
+
+Scene changes
+
+Page changes
+
+Memory reveals
+
+Photo interactions
+
+Notebook interactions
+
+Camera transitions
+
+Timeline movement
+
+Shared moments
+
+Loading
+
+Success
+
+Errors
+
+Reduced motion
+
+Motion should feel cinematic.
+
+Never playful.
+
+Never distracting.
+
+---
+
+## 7. Emotional Rhythm
+
+Define the emotional pacing of the product.
+
+When should it feel:
+
+Quiet
+
+Reflective
+
+Warm
+
+Playful
+
+Exciting
+
+Nostalgic
+
+Bittersweet
+
+Hopeful
+
+Comforting
+
+Explain how typography, spacing, motion and color work together to create these emotions.
+
+---
+
+## 8. Brand Identity
+
+Expand the visual identity.
+
+Define:
+
+Logo system
+
+App icon
+
+Brand shapes
+
+Visual motifs
+
+Graphic language
+
+Texture language
+
+Photography direction
+
+Marketing visuals
+
+Illustration rules
+
+Presentation style
+
+Social assets
+
+---
+
+## 9. Future Scalability
+
+Ensure this design language can support years of future features without losing consistency.
+
+Define:
+
+Naming conventions
+
+Component hierarchy
+
+Token strategy
+
+Design governance
+
+Versioning strategy
+
+Expansion guidelines
+
+---
+
+# FORBIDDEN
+
+Never generate:
+
+Generic Tailwind UI
+
+Bootstrap aesthetics
+
+Material Design defaults
+
+Generic iOS clone
+
+Generic Android clone
+
+Purple gradients
+
+Blue SaaS gradients
+
+Glassmorphism
+
+Neumorphism
+
+Oversized floating action buttons
+
+Three-card marketing layouts
+
+Template hero sections
+
+AI-generated looking interfaces
+
+Stock illustrations
+
+Emoji-heavy interfaces
+
+Gamification
+
+Relationship scores
+
+Streaks
+
+Public feeds
+
+Likes
+
+Followers
+
+Engagement mechanics
+
+Attention traps
+
+Notification addiction
+
+Cute-for-the-sake-of-cute design
+
+Anything that competes with the memories.
+
+---
+
+# SUCCESS CRITERIA
+
+The finished design system should feel like something designed over years by a world-class product company.
+
+Someone should recognize the product after seeing only three screens.
+
+The design should feel timeless enough to still be beautiful in ten years.
+
+Yellow and purple should exist only as subtle emotional accents.
+
+Typography should carry more personality than color.
+
+Spacing should carry more personality than decoration.
+
+The interface should disappear behind the relationship.
+
+Everything should reinforce intimacy.
+
+---
+
+# FINAL STEP
+
+After completing the design system:
+
+Critique your own work.
+
+Identify weak areas.
+
+Suggest improvements.
+
+Identify anything that still feels generic.
+
+Redesign those sections until they feel unique.
+
+Do not stop after the first solution.
+
+Iterate until the result feels worthy of Apple's Human Interface Design Award.
